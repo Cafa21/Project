@@ -1,0 +1,7 @@
+{
+    "name": "daffa/daffa",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
